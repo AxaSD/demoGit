@@ -1,5 +1,6 @@
 #ignoring file
 temFile.txt
+tempfile2.txt
 .DS_Store
 *.zip
 *.gz
